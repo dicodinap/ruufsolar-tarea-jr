@@ -12,3 +12,4 @@ The program takes the following parameters:
 - Panels 1x2 and roof 3x5 => Fits 7 panels
 - Panels 2x2 and roof 1x10 => Fits 0 panels
 # ruufsolar-tarea
+# ruufsolar-tarea
