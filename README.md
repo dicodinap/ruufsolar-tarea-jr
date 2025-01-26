@@ -32,6 +32,6 @@ Durante el desarrollo de esta prueba técnica, se consideraron otras aproximacio
 
 ## Contacto
 
-Email: Diego.Codina2201@alumnos.ubiobio.cl
-Telefono: +56 9 6591 5091
-LinkedIn: https://www.linkedin.com/in/diego-codina-pino/
+- Email: Diego.Codina2201@alumnos.ubiobio.cl
+- Telefono: +56 9 6591 5091
+- LinkedIn: https://www.linkedin.com/in/diego-codina-pino/
